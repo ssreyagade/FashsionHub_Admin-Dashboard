@@ -1,0 +1,15 @@
+@import "tailwindcss";
+/* Default font */
+body {
+  font-family: "Inter", sans-serif;
+}
+
+/* Headings */
+.heading-font {
+  font-family: "Playfair Display", serif;
+}
+
+/* Buttons / cards / UI */
+.accent-font {
+  font-family: "Poppins", sans-serif;
+}
